@@ -5,4 +5,7 @@ public class ComputeArithmetic {
         return first + second;
     }
 
+    public int minus(int first, int second) {
+        return first - second;
+    }
 }
